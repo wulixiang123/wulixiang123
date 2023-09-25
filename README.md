@@ -37,6 +37,6 @@
 闲暇之余做的个人网站
 
 * [神奇的程序员-个人网站](https://syndney.netlify.app/)
-* [神奇的程序员-个人网站](https://liuyuanbo.netlify.app/blog)
+* [神奇的程序员-个人网站](https://liuyuanbo.netlify.app/)
 
 > 最近在找工作（北京），如果你觉得我还不错的话，可以给我一个机会。😋 
